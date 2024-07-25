@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env Python3
 
 """Library for performing speech recognition, with support for several engines and APIs, online and offline."""
 
